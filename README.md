@@ -13,7 +13,7 @@ Jupiter's magnetosphere contains many energetic ions [100keV -10 MeV]. It has be
 * Error analysis in Poisson statistics
 * Data visualization and interpretation and implications for dynamics and processes in Jupiter's magnetosphere
 
-![](https://github.com/MichaelSchffl/portfolio/blob/master/images/Orbit04_maglat_B_dens-1.png)
+![](/images/Orbit04_maglat_B_dens-1.png)
 ![](https://github.com/MichaelSchffl/portfolio/blob/master/images/PAs_O_Orbit2_7_10-1.png)
 
 # [Project 2: Implementing Mini Games](https://github.com/MichaelSchffl/Mini-Games)
