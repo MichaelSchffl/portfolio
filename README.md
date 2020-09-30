@@ -20,5 +20,5 @@ Jupiter's magnetosphere contains many energetic ions [100keV -10 MeV]. It has be
 Sometimes fiddling around and trying to improve a piece of code as far as possible gives one new insights to unknown fields of programming...
 * Drawing gameboards with some fake graphics in python
 * Regular expressions for user input
-* Randomness
+* Randomness and permutations
 * Main method and functions
