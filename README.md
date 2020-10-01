@@ -21,7 +21,14 @@ Jupiter's magnetosphere contains many energetic ions [100keV -10 MeV]. It has be
 Geoscientist are often interested in simulating hydrogeological processes in the subsurface. In order to simulate these processes the PyGimli library represents a powerful tool to scientifically model geophysical applications. These hydrogeological flows are governed by the Darcy equation, streaming potential, mass flow and other physical aspects. These equations can be solved with the finite-element modeling scheme. In this project, I first created a world with a certain geometry and topography. Then, the hydraulic and streaming potentials were solved with the finite-element scheme. When ejecting a tracer fluid in the created world with certain physical parameters (hydraulic & electrical conductivity, porosity, boundary conditions...), the transport equation can again be solved and be converted in electrical conductivity. The result is a flow simulation that can be visualized with an animation.
 
 ### technical implementations:
-* 
+* Use of the PyGimli library for hydrogeophysical applications
+* Creating a unique world geometry with topography and set a mesh. Quality test the mesh
+* Implementing Darcy's equation to generate a hydraulic potential and solve the equation with the Finite Elements scheme
+* Implementing the streaming potential and calculate it with Finite Elements solver
+* Simulate a tracer injection at a certain cell position
+* Implementing and solving advection-diffusion equation with Finite Volume method within the limits of the Courant-Friedrichs-Lewy condition and simulate the flow of the tracer fluid
+* Calculating electrical conductivity and convert to bulk resistivity of the rock using implementation of Archie's law
+* Creating an animation of the electrical resistivity simulation over time in the subsurface and save it as .mp4
 
 
 # [Project 3: Implementing Python-based Mini Games](https://github.com/MichaelSchffl/Mini-Games)
