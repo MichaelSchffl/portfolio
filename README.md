@@ -30,6 +30,8 @@ Geoscientist are often interested in simulating hydrogeological processes in the
 * Calculating electrical conductivity and convert to bulk resistivity of the rock using implementation of Archie's law
 * Creating an animation of the electrical resistivity simulation over time in the subsurface and save it as .mp4
 
+![](/images/Orbit04_maglat_B_dens-1.png)
+![](/images/PAs_O_Orbit2_7_10-1.png)
 
 # [Project 3: Implementing Python-based Mini Games](https://github.com/MichaelSchffl/Mini-Games)
 Sometimes fiddling around and trying to improve a piece of code as far as possible gives new insights to unknown parts of coding...and it's fun!
