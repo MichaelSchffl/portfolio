@@ -31,8 +31,6 @@ Geoscientist are often interested in simulating hydrogeological processes in the
 * Creating an animation of the electrical resistivity simulation over time in the subsurface and save it as .mp4
 
 
-             |  
-:-------------------------:|:-------------------------:
 ![](/images/stream.png)  |  ![](/images/el_potential.png)
 :-------------------------:|:-------------------------:
 ![](/images/pseudosection.png)  |  ![](/images/summary_roh_anim.gif)
