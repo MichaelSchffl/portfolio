@@ -16,7 +16,7 @@ Jupiter's magnetosphere contains many energetic ions [100keV -10 MeV]. It has be
 ![](/images/Orbit04_maglat_B_dens-1.png)
 ![](/images/PAs_O_Orbit2_7_10-1.png)
 
-# [Project 2: Hydrogeological simulation using PyGimli]()
+# [Project 2: Hydrogeological simulation using PyGimli](https://github.com/MichaelSchffl/hydrogeophysical_process_simulation)
 ### short description:
 Geoscientist are often interested in simulating hydrogeological processes in the subsurface. In order to simulate these processes the PyGimli library represents a powerful tool to scientifically model geophysical applications. These hydrogeological flows are governed by the Darcy equation, streaming potential, mass flow and other physical aspects. These equations can be solved with the finite-element modeling scheme. In this project, I first created a world with a certain geometry and topography. Then, the hydraulic and streaming potentials were calculated with the finite-element scheme. When ejecting a tracer fluid in the created world with certain physical parameters (hydraulic & electrical conductivity, porosity, boundary conditions...), the transport equation can again be solved and be converted in electrical conductivity. The result is a flow simulation that can be visualized with an animation.
 
