@@ -31,7 +31,7 @@ Geoscientist are often interested in simulating hydrogeological processes in the
 * Creating an animation of the electrical resistivity simulation over time in the subsurface and save it as .mp4
 
 
- Solarized Ocean            |  Solarized Ocean
+             |  
 :-------------------------:|:-------------------------:
 ![](/images/stream.png)  |  ![](/images/el_potential.png)
 :-------------------------:|:-------------------------:
