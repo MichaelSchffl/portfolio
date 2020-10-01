@@ -32,7 +32,7 @@ Geoscientist are often interested in simulating hydrogeological processes in the
 
 
 # [Project 3: Implementing Python-based Mini Games](https://github.com/MichaelSchffl/Mini-Games)
-Sometimes fiddling around and trying to improve a piece of code as far as possible gives one new insights to unknown fields of programming...
+Sometimes fiddling around and trying to improve a piece of code as far as possible gives new insights to unknown parts of coding...and it's fun!
 * Drawing gameboards with some fake graphics in python
 * Regular expressions for user input
 * Randomness and permutations
