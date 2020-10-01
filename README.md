@@ -25,9 +25,9 @@ Geoscientist are often interested in simulating hydrogeological processes in the
 * Creating a unique world geometry with topography and set a mesh. Quality test the mesh
 * Implementing Darcy's equation to generate a hydraulic potential and solve the equation with the Finite Elements scheme
 * Implementing the streaming potential and calculate it with Finite Elements solver
-* Simulate a tracer injection at a certain cell position
+* Simulate a salt tracer injection at a certain cell position
 * Implementing and solving advection-diffusion equation with Finite Volume method within the limits of the Courant-Friedrichs-Lewy condition and simulate the flow of the tracer fluid
-* Calculating electrical conductivity and convert to bulk resistivity of the rock using implementation of Archie's law
+* Calculating electrical fluid conductivity from salt concentration and convert to bulk resistivity of the rock using implementation of Archie's law
 * Creating an animation of the electrical resistivity simulation over time in the subsurface and save it as .mp4
 
 ![](/images/conc_anim.mp4)
