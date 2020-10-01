@@ -30,6 +30,10 @@ Geoscientist are often interested in simulating hydrogeological processes in the
 * Calculating electrical fluid conductivity from salt concentration and convert to bulk resistivity of the rock using implementation of Archie's law
 * Creating an animation of the electrical resistivity simulation over time in the subsurface and save it as .mp4
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/images/pseudosection.png)  |  ![](/images/summary_roh_anim.gif)
+
 ![](/images/el_potential.png)
 ![](/images/pseudosection.png)
 ![](/images/summary_roh_anim.gif)
