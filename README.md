@@ -33,6 +33,8 @@ Geoscientist are often interested in simulating hydrogeological processes in the
 
 ![](/images/stream.png)
 ![](/images/el_potential.png)
+Pseudosection             |  apparent resistivity
+:-------------------------:|:-------------------------:
 ![](/images/pseudosection.png)  |  ![](/images/summary_roh_anim.gif)
 
 
